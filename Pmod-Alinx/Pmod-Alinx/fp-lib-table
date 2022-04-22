@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Alinx")(type "KiCad")(uri "/home/dxd/Documentos/Proyectos/kicad_pcb/Alinx.pretty")(options "")(descr ""))
+  (lib (name "Pmod")(type "KiCad")(uri "/home/dxd/Documentos/Proyectos/kicad_pcb/Pmod.pretty")(options "")(descr ""))
+)
